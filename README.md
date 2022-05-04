@@ -8,4 +8,15 @@ Salary Management System:-
          With Help of these Options
          Admin can delete,add,update,print the desired informations.
         Module sql_connection connects the project to the MySQL Database.
-        All Data Stored Inside MySql Table
+        All data present inside employee and salary table present inside world database in Mysql
+        -------+---------+--------+---------+--------+
+| empid | empname | empsex | Address | mobile |
++-------+---------+--------+---------+--------+
+| 3011  | dolly   | female | goa     | 885865 |
+| 3012  | Anshu   | Male   | Pune    | 488585 |
++-------+---------+--------+---------+--------+
+
+| basic | rent_pay | allowance | empid | netsalary | grosssalary |
++-------+----------+-----------+-------+-----------+-------------+
+| 50000 | 5000     | 10000     | 3012  | 35000     | 30000       |
++-------+----------+-----------+-------+-----------+-------------+
