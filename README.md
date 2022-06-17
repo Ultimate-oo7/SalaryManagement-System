@@ -16,10 +16,6 @@
 - Generate Employee PaySlips
 # Find Employee functionalities
 - Find Employee Using Employee ID or Employee Name.
-# Dependencies in Shopping app
-- Maven
-- JDBC driver
-- Junit
 # Tools used
 - Eclipse
 - JDK 1.8
